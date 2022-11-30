@@ -1,0 +1,13 @@
+.shared{
+    font-family: "Didot", serif;
+    font-size: 200%;
+}
+
+#button-one{
+    background-color: rgb(0,0,0);
+}
+
+#button-two{
+    color: red;
+    background-color: rgb(242,210,51);
+}
