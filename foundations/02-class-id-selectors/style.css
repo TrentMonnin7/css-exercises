@@ -1,0 +1,21 @@
+.odd{
+    color: black;
+    background-color:rgb(227, 122, 120);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.middle{
+    font-size: 300%;
+}
+
+#number-two{
+    color: #0000ff;
+    font-size: 300%;
+}
+
+#number-four {
+    color: black;
+    background-color: rgb(152,242,141);
+    font-size: 300%;
+    font-weight: 800;
+}
