@@ -15,7 +15,28 @@ body {
   justify-content: center;
 }
 
+strong {
+  font-size: 17px;
+}
+
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+
+.text{
+  width: auto;
+  padding-left: 42px;
+}
+
+.header{
+  align-self: flex-start;
+  padding-right: 150px;
+  font-weight: bold;
+}
+
 .modal {
+  padding: 10px;
   background: white;
   width: 480px;
   border-radius: 10px;
@@ -48,6 +69,12 @@ body {
   justify-content: center;
 }
 
+.buttons{
+  display: flex;
+  margin-top: 10px;
+  padding-left: 42px;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
@@ -57,6 +84,7 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  margin-right: 5px;
 }
 
 button.cancel {
